@@ -1,16 +1,16 @@
-# Analisi-dati-disastri-aerei
-Analisi dei disastri aerei dal 1919 al 2023
+# Data-Analysis-aviation-accidents
+Data Analysis aviation accidents from 1919 to 2023
 
 
-Il progetto consiste nell'analizzare un dataset in cui sono registrati quasi 25.000  incidenti con le seguenti informazioni:
+The project consists of analysing a dataset in which almost 25,000 accidents are recorded with the following information
 
-date: data dell'incidente
-type: tipo del velivolo
-registration: codice di registrazione del velivolo
-operator: operatore del velivolo
-fatalities: numero di morti
-location: luogo dell'incidente
-country: nazione dell'incidente
-cat: categoria dell'incidente come descritto dal ASN
+date: date of the accident
+type: aircraft type
+registration: aircraft registration code
+operator: operator of the aircraft
+fatalities: number of fatalities
+location: location of the accident
+country: country of the accident
+cat: accident category as described by ASN
 
-Vengono tilizzati i dati per portare alla luce, anche tramite grafici e visualizzazioni, utili insight.
+Data are tiliarised to bring to light, also by means of graphs and visualisations, useful insights.
