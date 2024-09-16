@@ -13,5 +13,5 @@ The project consists of analysing a dataset in which almost 25,000 accidents are
 7. country: country of the accident
 8. cat: accident category as described by ASN
 
-Data are tiliarised to bring to light, also by means of graphs and visualisations, useful insights.
+Data are used to bring to light, also through graphs and visualisations, useful insights. 
 Python libraries used are pandas, numpy and matplotlib.
