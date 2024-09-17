@@ -1,5 +1,5 @@
-# Data-Analysis-aviation-accidents
-Data Analysis aviation accidents from 1919 to 2023
+# Aviation accidents analysis
+Aviation accidents from 1919 to 2023 analysis 
 
 
 The project consists of analysing a dataset in which almost 25,000 accidents are recorded with the following information:
